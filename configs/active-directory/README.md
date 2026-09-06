@@ -6,15 +6,15 @@ The lab uses a Windows Server 2022 Domain Controller running Active Directory Do
 
 ## Contents
 
-### `domain-structure.md`
+### [`domain-structure.md`](./domain-structure.md)
 
 Documents the Active Directory Organizational Unit (OU) structure used in the lab.
 
-### `rdp-group-policy.md`
+### [`rdp-group-policy.md`](./rdp-group-policy.md)
 
 Documents the Group Policy settings used to control Remote Desktop access.
 
-### `dns-configuration.md`
+### [`dns-configuration.md`](./dns-configuration.md)
 
 Documents the DNS configuration used in the lab.
 

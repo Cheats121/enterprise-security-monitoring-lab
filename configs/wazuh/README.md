@@ -17,5 +17,6 @@ Windows users.
 Collects Microsoft Defender operational events so malware detections
 can be forwarded to Wazuh.
 
-> Sensitive values such as API keys and internal addresses have been
-> removed or replaced with placeholders.
+## Security Note
+
+Sensitive information such as credentials and API keys has been removed or sanitized before publishing.

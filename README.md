@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/wazuh-logo.png" alt="Wazuh Logo" width="180">
+<img src="assets/wazuh_logo.webp" alt="Wazuh Logo" width="180">
 
 # Enterprise Security Monitoring Lab
 

@@ -2,7 +2,7 @@
 
 The lab uses Group Policy to control Remote Desktop access.
 
-![RDP Group Policy](../../screenshots/AD_7.png)
+![RDP Group Policy](../../screenshots/AD_7.PNG)
 
 ## Configured Settings
 

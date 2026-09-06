@@ -1,0 +1,9 @@
+<!--
+  Collect Microsoft Defender operational events
+  and forward them to the Wazuh manager.
+-->
+
+<localfile>
+  <location>Microsoft-Windows-Windows Defender/Operational</location>
+  <log_format>eventchannel</log_format>
+</localfile>

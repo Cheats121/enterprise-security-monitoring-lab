@@ -30,4 +30,4 @@ These configurations demonstrate how Active Directory can be used to centrally m
 
 ## Security Note
 
-Sensitive information such as credentials, API keys, and unnecessary internal network details has been removed or sanitized before publishing.
+Sensitive information such as credentials and API keys has been removed or sanitized before publishing.

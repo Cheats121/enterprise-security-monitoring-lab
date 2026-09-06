@@ -1,0 +1,16 @@
+<!--
+  Wazuh File Integrity Monitoring configuration
+  Monitors Desktop and Downloads directories for all local users.
+-->
+
+<syscheck>
+  <disabled>no</disabled>
+
+  <directories realtime="yes" check_all="yes">
+    C:\Users\*\Downloads
+  </directories>
+
+  <directories realtime="yes" check_all="yes">
+    C:\Users\*\Desktop
+  </directories>
+</syscheck>

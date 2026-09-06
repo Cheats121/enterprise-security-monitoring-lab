@@ -20,7 +20,7 @@ malware detection, and threat intelligence integration.
 
 ## Lab Topology
 
-![Lab Topology](diagrams/topology.png)
+![Lab Topology](diagrams/SIEM_Topology_new.png)
 
 ## Technologies Used
 

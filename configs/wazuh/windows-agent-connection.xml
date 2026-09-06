@@ -1,0 +1,7 @@
+<client>
+  <server>
+    <address>100.72.72.11</address>
+    <port>1514</port>
+    <protocol>tcp</protocol>
+  </server>
+</client>

@@ -29,5 +29,4 @@ These configurations demonstrate how Active Directory can be used to centrally m
 - Remote access permissions
 
 ## Security Note
-
 Sensitive information such as credentials and API keys has been removed or sanitized before publishing.

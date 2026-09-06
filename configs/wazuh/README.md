@@ -5,7 +5,7 @@ Enterprise Security Monitoring Lab.
 
 ## Files
 
-### ### [`virustotal-integration.xml`](./virustotal-integration.xml)
+### [`virustotal-integration.xml`](./virustotal-integration.xml)
 Integrates Wazuh File Integrity Monitoring events with VirusTotal for
 file-hash reputation checks.
 
